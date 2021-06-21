@@ -1,2 +1,2 @@
 # Finding_GCD
-C++ code for finding gcd of number
+C++ code for finding gcd 
